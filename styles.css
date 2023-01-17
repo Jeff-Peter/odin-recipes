@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eeee;
+}
+
+.site-banner {
+    width: 100vw;
+    text-align: center;
+    background-color: orange;
+    color: navy;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px black solid;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
+}
+
+.site-body {
+    margin-left: 10px;
+}
+
+.site-body h3 {
+    font-size: 25px;
+}
+
+.recipes-list {
+    list-style: none;
+}
+
+.recipes-list li {
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.recipes-list li a {
+    text-decoration: none;
+    display: block;
+}

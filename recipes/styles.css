@@ -1,0 +1,12 @@
+body {
+    background-color: #eeee;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.image-container {
+    float: right;    
+}
